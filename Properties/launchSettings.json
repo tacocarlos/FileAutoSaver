@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "er-autosave-gui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "er-autosave-gui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
